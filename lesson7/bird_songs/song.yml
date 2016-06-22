@@ -1,0 +1,176 @@
+---
+numRecordings: '10'
+numSpecies: '1'
+page: 1
+numPages: 1
+recordings:
+- id: '318060'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Cheboksary, gorod Cheboksary, Республика Чувашская - Чувашия
+  lat: '56.092'
+  lng: '47.2613'
+  type: song
+  file: http://www.xeno-canto.org/318060/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/4.0/
+  url: http://www.xeno-canto.org/318060
+  q: A
+  time: '07:00'
+  date: '2016-05-23'
+- id: '199691'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Cheboksary, gorod Cheboksary, Республика Чувашская - Чувашия
+  lat: '56.092'
+  lng: '47.2613'
+  type: male, song
+  file: http://www.xeno-canto.org/199691/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/4.0/
+  url: http://www.xeno-canto.org/199691
+  q: A
+  time: '11:30'
+  date: '2014-05-22'
+- id: '189715'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Staroye Kotyakovo, Batyrevskiy rayon, Chuvash Republic
+  lat: '55.0465'
+  lng: '47.7372'
+  type: Rattle, call
+  file: http://www.xeno-canto.org/189715/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/4.0/
+  url: http://www.xeno-canto.org/189715
+  q: A
+  time: '05:00'
+  date: '2014-07-22'
+- id: '134685'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Medvedevskiy rayon, Mari El Republic
+  lat: '56.4964'
+  lng: '47.3734'
+  type: male, song
+  file: http://www.xeno-canto.org/134685/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/3.0/
+  url: http://www.xeno-canto.org/134685
+  q: A
+  time: '22:30'
+  date: '2013-05-19'
+- id: '134656'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Gornomariyskiy rayon, Mari El Republic
+  lat: '56.5655'
+  lng: '47.1698'
+  type: male, song
+  file: http://www.xeno-canto.org/134656/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/3.0/
+  url: http://www.xeno-canto.org/134656
+  q: A
+  time: '23:00'
+  date: '2013-05-18'
+- id: '132247'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Cheboksary, gorod Cheboksary, Chuvashia
+  lat: '56.1394'
+  lng: '47.3497'
+  type: male, song
+  file: http://www.xeno-canto.org/132247/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/3.0/
+  url: http://www.xeno-canto.org/132247
+  q: A
+  time: '17:00'
+  date: '2013-05-03'
+- id: '132244'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Cheboksary, gorod Cheboksary, Chuvashia
+  lat: '56.1396'
+  lng: '47.3507'
+  type: male, song
+  file: http://www.xeno-canto.org/132244/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/3.0/
+  url: http://www.xeno-canto.org/132244
+  q: A
+  time: '16:30'
+  date: '2013-05-03'
+- id: '132228'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Cheboksary, gorod Cheboksary, Chuvashia
+  lat: '56.1379'
+  lng: '47.349'
+  type: male, song
+  file: http://www.xeno-canto.org/132228/download
+  lic: http://creativecommons.org/licenses/by-nc-sa/3.0/
+  url: http://www.xeno-canto.org/132228
+  q: A
+  time: '17:00'
+  date: '2013-05-03'
+- id: '106840'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Albert Lastukhin
+  cnt: Russian Federation
+  loc: Bereska
+  lat: '56.133'
+  lng: '46.939'
+  type: Song
+  file: http://www.xeno-canto.org/106840/download
+  lic: http://creativecommons.org/licenses/by-nc-nd/2.5/
+  url: http://www.xeno-canto.org/106840
+  q: A
+  time: 7-30
+  date: '2011-06-04'
+- id: '29600'
+  gen: Luscinia
+  sp: luscinia
+  ssp: ''
+  en: Thrush Nightingale
+  rec: Vladimir Yu.  Arkhipov
+  cnt: Russian Federation
+  loc: Tula region, Upa river
+  lat: '53.9901'
+  lng: '37.1778'
+  type: song
+  file: http://www.xeno-canto.org/29600/download
+  lic: http://creativecommons.org/licenses/by-nc-nd/2.5/
+  url: http://www.xeno-canto.org/29600
+  q: A
+  time: '00:34'
+  date: '2008-06-12'
