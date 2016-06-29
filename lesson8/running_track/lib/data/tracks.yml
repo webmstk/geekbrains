@@ -1,0 +1,1503 @@
+---
+- Id: 8c74ab1f-1cb2-4d0c-beaa-8fdd88b253c1
+  Number: 1
+  Cells:
+    global_id: 13896807
+    Photo: []
+    ObjectShortName: Зона отдыха «Белое озеро»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Косино-Ухтомский
+    Address: Заозёрная улица, дом 19
+    Email: 
+    WebSite: staroekosino.ru
+    HelpPhone: "(495) 291-27-34"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: нет
+    ObjectHasToilet: да
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: да
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 07:00-23:55
+    - DayOfWeek: вторник
+      Hours: 07:00-23:55
+    - DayOfWeek: среда
+      Hours: 07:00-23:55
+    - DayOfWeek: четверг
+      Hours: 07:00-23:55
+    - DayOfWeek: пятница
+      Hours: 07:00-23:55
+    - DayOfWeek: суббота
+      Hours: 07:00-23:55
+    - DayOfWeek: воскресенье
+      Hours: 07:00-23:55
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.84821286619274
+      - 55.71781811672423
+- Id: 51039141-d519-4adc-b52b-c638a54e86f4
+  Number: 2
+  Cells:
+    global_id: 13897018
+    Photo:
+    - 48bb6669-058c-4f94-b7fc-53a624675f8d
+    ObjectShortName: Парк «Гольяново»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Гольяново
+    Address: Алтайская улица, дом 4
+    Email: izmpark@mail.ru
+    WebSite: izmailovsky-park.ru
+    HelpPhone: "(499) 166-61-19"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.79951603815866
+      - 55.821384804256894
+- Id: e6070401-5ed0-4585-98d0-32396e0086db
+  Number: 3
+  Cells:
+    global_id: 13897119
+    Photo: []
+    ObjectShortName: Лесопарковая зона «Лосиный остров»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Богородское
+    Address: улица Богатырский Мост, дом 17А
+    Email: 
+    WebSite: elkisland.ru
+    HelpPhone: "(499) 268-60-45"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.7161799652581
+      - 55.822413040287294
+- Id: 16fe0992-d779-42ef-8d51-b61ac17315df
+  Number: 4
+  Cells:
+    global_id: 13897120
+    Photo: []
+    ObjectShortName: Лесопарковая зона «Лосиный остров»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Гольяново
+    Address: Курганская улица, дом 3
+    Email: 
+    WebSite: elkisland.ru
+    HelpPhone: "(499) 268-60-16"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-23:00
+    - DayOfWeek: вторник
+      Hours: 08:00-23:00
+    - DayOfWeek: среда
+      Hours: 08:00-23:00
+    - DayOfWeek: четверг
+      Hours: 08:00-23:00
+    - DayOfWeek: пятница
+      Hours: 08:00-23:00
+    - DayOfWeek: суббота
+      Hours: 08:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.79906398973801
+      - 55.828757965855914
+- Id: adee7c81-823e-43b4-b5b2-d90f311a0bc9
+  Number: 5
+  Cells:
+    global_id: 13898085
+    Photo: []
+    ObjectShortName: Лесопарк «Кусково», ПК № 80
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Вешняки
+    Address: улица Юности, дом 2, строение 1
+    Email: ooptvao@gmail.com
+    WebSite: 
+    HelpPhone: "(495) 367-36-81"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 07:00-23:55
+    - DayOfWeek: вторник
+      Hours: 07:00-23:55
+    - DayOfWeek: среда
+      Hours: 07:00-23:55
+    - DayOfWeek: четверг
+      Hours: 07:00-23:55
+    - DayOfWeek: пятница
+      Hours: 07:00-23:55
+    - DayOfWeek: суббота
+      Hours: 07:00-23:55
+    - DayOfWeek: воскресенье
+      Hours: 07:00-23:55
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение лампами накаливания
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.79655053142084
+      - 55.73601303531545
+- Id: 958c8f89-6e20-4678-95ec-fe3bdaaa2b31
+  Number: 6
+  Cells:
+    global_id: 13899023
+    Photo:
+    - 2d081e06-85a5-4e6e-a958-902112adcd14
+    ObjectShortName: Музеон
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Центральный административный округ
+    District: район Якиманка
+    Address: улица Крымский Вал, дом 10
+    Email: info@muzeon.ru
+    WebSite: www.muzeon.ru
+    HelpPhone: "(499) 238-33-96"
+    ObjectHasEquipmentRental: да
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: да
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-23:00
+    - DayOfWeek: вторник
+      Hours: 08:00-23:00
+    - DayOfWeek: среда
+      Hours: 08:00-23:00
+    - DayOfWeek: четверг
+      Hours: 08:00-23:00
+    - DayOfWeek: пятница
+      Hours: 08:00-23:00
+    - DayOfWeek: суббота
+      Hours: 08:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: смешанное освещение
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.606495019585175
+      - 55.737075350875855
+- Id: b5a8cc5f-c213-4126-bdb4-3114d0f7b316
+  Number: 7
+  Cells:
+    global_id: 13900903
+    Photo:
+    - 7995b414-62d2-4138-9362-870e362ca47f
+    ObjectShortName: Зона отдыха «Серебряно-Виноградные пруды»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Измайлово
+    Address: Измайловский проезд, дом 3, корпус 1
+    Email: info@moscow-vernisage.com
+    WebSite: www.kremlin-izmailovo.com/
+    HelpPhone: "(495) 291-27-34"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-23:00
+    - DayOfWeek: вторник
+      Hours: 08:00-23:00
+    - DayOfWeek: среда
+      Hours: 08:00-23:00
+    - DayOfWeek: четверг
+      Hours: 08:00-23:00
+    - DayOfWeek: пятница
+      Hours: 08:00-23:00
+    - DayOfWeek: суббота
+      Hours: 08:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.76733867932891
+      - 55.79438525185016
+- Id: 8801144c-f248-4be5-8a96-e79600582703
+  Number: 8
+  Cells:
+    global_id: 13900951
+    Photo: []
+    ObjectShortName: Салтыковский лесопарк
+    SportZoneName: дорожка беговая-прогулочная №1
+    AdmArea: Восточный административный округ
+    District: район Косино-Ухтомский
+    Address: Лухмановская улица, дом 17
+    Email: 
+    WebSite: 
+    HelpPhone: 
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.8984217834288
+      - 55.72355597449449
+- Id: bd80c901-293b-43fa-8e35-cf1d2604fb83
+  Number: 9
+  Cells:
+    global_id: 13900952
+    Photo: []
+    ObjectShortName: Салтыковский лесопарк
+    SportZoneName: дорожка беговая-прогулочная №2
+    AdmArea: Восточный административный округ
+    District: район Косино-Ухтомский
+    Address: Лухмановская улица, дом 17
+    Email: 
+    WebSite: 
+    HelpPhone: 
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.8974079079682
+      - 55.723327389032086
+- Id: c2cb1cfa-f1a7-47ea-b726-359e54b45877
+  Number: 10
+  Cells:
+    global_id: 13900953
+    Photo: []
+    ObjectShortName: Лыжная трасса 0,5 км и прогулочная дорожка
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Новокосино
+    Address: Салтыковская улица, дом 33, корпус 1
+    Email: 
+    WebSite: 
+    HelpPhone: 
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: 
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.875674235969186
+      - 55.7397152616981
+- Id: 9de2b354-ecec-4d79-875a-2855bbf51e1b
+  Number: 11
+  Cells:
+    global_id: 13901347
+    Photo:
+    - ece36a86-dff7-4647-87fc-726ed182dd5f
+    ObjectShortName: Парк «Перовский»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Перово
+    Address: улица Лазо, дом 7, строение 2
+    Email: ppkio@mail.ru
+    WebSite: 
+    HelpPhone: "(495) 309-53-42"
+    ObjectHasEquipmentRental: да
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: да
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 06:00-23:00
+    - DayOfWeek: вторник
+      Hours: 06:00-23:00
+    - DayOfWeek: среда
+      Hours: 06:00-23:00
+    - DayOfWeek: четверг
+      Hours: 06:00-23:00
+    - DayOfWeek: пятница
+      Hours: 06:00-23:00
+    - DayOfWeek: суббота
+      Hours: 06:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 06:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение лампами накаливания
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: приспособлен для всех групп инвалидов
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.77460355445757
+      - 55.7387128232668
+- Id: cbe3cc44-c9fd-42de-a97c-e81ff39e8ad1
+  Number: 12
+  Cells:
+    global_id: 13902476
+    Photo: []
+    ObjectShortName: Измайловский Парк культуры и отдыха
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Измайлово
+    Address: аллея Большого Круга, дом 7
+    Email: izmpark@mail.ru
+    WebSite: izmailovsky-park.ru
+    HelpPhone: "(499) 166-61-19"
+    ObjectHasEquipmentRental: да
+    ObjectHasTechService: да
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: да
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 00:00-23:00
+    - DayOfWeek: вторник
+      Hours: 00:00-23:00
+    - DayOfWeek: среда
+      Hours: 00:00-23:00
+    - DayOfWeek: четверг
+      Hours: 00:00-23:00
+    - DayOfWeek: пятница
+      Hours: 00:00-23:00
+    - DayOfWeek: суббота
+      Hours: 00:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 00:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: да
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.754997438902734
+      - 55.772789692684334
+- Id: 2ae3bab6-f1d4-4898-811b-b42cd58f31c9
+  Number: 13
+  Cells:
+    global_id: 13903339
+    Photo:
+    - 9559c148-0e62-4c80-95ba-c48b408cd538
+    ObjectShortName: ГБУ ЦСП «Крылатское»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Восточный
+    Address: Западная улица, дом 16Б
+    Email: krylatskoe@mossport.ru
+    WebSite: moscsp.ru
+    HelpPhone: "(499) 780-15-82"
+    ObjectHasEquipmentRental: да
+    ObjectHasTechService: да
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: да
+    ObjectHasCashMachine: да
+    ObjectHasFirstAidPost: да
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: да
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.879254845233206
+      - 55.81553690494837
+- Id: 51a30f9e-4475-45f2-b290-cdad9a13c7c5
+  Number: 14
+  Cells:
+    global_id: 13903398
+    Photo: []
+    ObjectShortName: Парк «Северное Тушино»
+    SportZoneName: Универсальная спортивная дорожка
+    AdmArea: Северо-Западный административный округ
+    District: район Северное Тушино
+    Address: улица Свободы, дом 56
+    Email: info@mosparks.ru
+    WebSite: www.mosparks.ru
+    HelpPhone: "(495) 640-73-55"
+    ObjectHasEquipmentRental: да
+    ObjectHasTechService: да
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: да
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 10:00-20:00
+    - DayOfWeek: вторник
+      Hours: 10:00-20:00
+    - DayOfWeek: среда
+      Hours: 10:00-20:00
+    - DayOfWeek: четверг
+      Hours: 10:00-20:00
+    - DayOfWeek: пятница
+      Hours: 10:00-20:00
+    - DayOfWeek: суббота
+      Hours: 10:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 10:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: смешанное освещение
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.452352460382635
+      - 55.86489430686433
+- Id: 42c55372-c546-46b9-b54c-188e0ba6703c
+  Number: 15
+  Cells:
+    global_id: 14166235
+    Photo:
+    - 4285b51e-32c5-42a4-9842-a90c2511bae8
+    ObjectShortName: Зона отдыха (Черкизовский пруд)
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Восточный административный округ
+    District: район Преображенское
+    Address: набережная Шитова, дом 2, сооружение 1
+    Email: 
+    WebSite: vao.mos.ru/
+    HelpPhone: "(495) 777-28-03"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-23:00
+    - DayOfWeek: вторник
+      Hours: 08:00-23:00
+    - DayOfWeek: среда
+      Hours: 08:00-23:00
+    - DayOfWeek: четверг
+      Hours: 08:00-23:00
+    - DayOfWeek: пятница
+      Hours: 08:00-23:00
+    - DayOfWeek: суббота
+      Hours: 08:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.73162259159202
+      - 55.80041286691483
+- Id: 56bfce0e-13ba-4b76-99fb-803059f93a29
+  Number: 16
+  Cells:
+    global_id: 25168643
+    Photo:
+    - e7ef8fcc-8465-4882-ad81-97e509490966
+    ObjectShortName: Дворовая территория
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Зеленоградский административный округ
+    District: район Крюково
+    Address: город Зеленоград, корпус 2034
+    Email: 
+    WebSite: 
+    HelpPhone: "(499) 210-29-20"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: нет
+    ObjectHasToilet: да
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 12:00-22:00
+    - DayOfWeek: вторник
+      Hours: 12:00-22:00
+    - DayOfWeek: среда
+      Hours: 12:00-22:00
+    - DayOfWeek: четверг
+      Hours: 12:00-22:00
+    - DayOfWeek: пятница
+      Hours: 12:00-22:00
+    - DayOfWeek: суббота
+      Hours: 11:00-22:00
+    - DayOfWeek: воскресенье
+      Hours: 11:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение газоразрядными лампами
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.16854699401851
+      - 55.97262366318999
+- Id: 835ac3bb-9e23-4272-b57c-18edd67d1f91
+  Number: 17
+  Cells:
+    global_id: 170537477
+    Photo: []
+    ObjectShortName: Парк «Таганский», «Стадион»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Центральный административный округ
+    District: Таганский район
+    Address: Таганская улица, дом 40-42
+    Email: fok@parktaganskiy.com
+    WebSite: parktaganskiy.ru
+    HelpPhone: "(495) 632-64-20"
+    ObjectHasEquipmentRental: да
+    ObjectHasTechService: да
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: да
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 07:00-23:00
+    - DayOfWeek: вторник
+      Hours: 07:00-23:00
+    - DayOfWeek: среда
+      Hours: 07:00-23:00
+    - DayOfWeek: четверг
+      Hours: 07:00-23:00
+    - DayOfWeek: пятница
+      Hours: 07:00-23:00
+    - DayOfWeek: суббота
+      Hours: 07:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 07:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение газоразрядными лампами
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.667282289197885
+      - 55.7378633559218
+- Id: 30959e7b-aa11-4172-b473-3b60eff27b24
+  Number: 18
+  Cells:
+    global_id: 170641515
+    Photo: []
+    ObjectShortName: Парк народный
+    SportZoneName: легкоатлетическая тропа для самостоятельных занятий жителей
+    AdmArea: Зеленоградский административный округ
+    District: район Крюково
+    Address: город Зеленоград, корпус 2001
+    Email: 
+    WebSite: 
+    HelpPhone: "(499) 734-00-40"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение газоразрядными лампами
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.165293987762205
+      - 55.976547972658445
+- Id: 6926c89d-8215-4319-8d1d-69820b26f5dd
+  Number: 19
+  Cells:
+    global_id: 170663108
+    Photo:
+    - d0a3897b-6849-4cc5-b3bb-272ae212f948
+    ObjectShortName: Дубовая роща «Маяк»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Северо-Западный административный округ
+    District: район Южное Тушино
+    Address: Туристская улица, дом 4, корпус 5
+    Email: info@mosparks.ru
+    WebSite: mosparks.ru/
+    HelpPhone: "(495) 640-73-55"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 07:00-22:00
+    - DayOfWeek: вторник
+      Hours: 07:00-22:00
+    - DayOfWeek: среда
+      Hours: 07:00-22:00
+    - DayOfWeek: четверг
+      Hours: 07:00-22:00
+    - DayOfWeek: пятница
+      Hours: 07:00-22:00
+    - DayOfWeek: суббота
+      Hours: 07:00-22:00
+    - DayOfWeek: воскресенье
+      Hours: 07:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.427628030901424
+      - 55.84649222990155
+- Id: f5dadce8-2516-4a9d-b9e4-e17641f9113b
+  Number: 20
+  Cells:
+    global_id: 170663667
+    Photo:
+    - 6980d2ff-fd15-4e15-be4f-01598422fc54
+    ObjectShortName: ГБОУ лицей № 1793
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Юго-Восточный административный округ
+    District: район Выхино-Жулебино
+    Address: Жулебинский бульвар, дом 38
+    Email: 1793@edu.mos.ru
+    WebSite: lyc1793uv.mskobr.ru
+    HelpPhone: "(495) 704-08-37"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-21:00
+    - DayOfWeek: вторник
+      Hours: 08:00-21:00
+    - DayOfWeek: среда
+      Hours: 08:00-21:00
+    - DayOfWeek: четверг
+      Hours: 08:00-21:00
+    - DayOfWeek: пятница
+      Hours: 08:00-21:00
+    - DayOfWeek: суббота
+      Hours: 08:00-21:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение лампами накаливания
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.84884082630557
+      - 55.68394516604936
+- Id: caf9d288-cc6e-426d-8175-e6f03039cad2
+  Number: 21
+  Cells:
+    global_id: 170665908
+    Photo:
+    - 30efc7e5-579c-46cb-a0dd-b1fc81e406fb
+    ObjectShortName: ГАПОУ МОК им. В. Талалихина
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Юго-Восточный административный округ
+    District: район Печатники
+    Address: улица Полбина, дом 72, строение 1
+    Email: mokvt@edu.mos.ru
+    WebSite: mok.mskobr.ru
+    HelpPhone: "(495) 354-90-29"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.720759115740805
+      - 55.668874798055526
+- Id: 783886bd-e976-4856-8369-cef321d49057
+  Number: 22
+  Cells:
+    global_id: 170665924
+    Photo:
+    - c39fe62b-70a3-42c0-ab79-6433b7adef80
+    ObjectShortName: ГАПОУ МОК им. В. Талалихина
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Юго-Восточный административный округ
+    District: район Печатники
+    Address: улица Полбина, дом 68, строение 1
+    Email: mokvt@edu.mos.ru
+    WebSite: mok.mskobr.ru
+    HelpPhone: "(495) 354-90-29"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: смешанное освещение
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.722312571463334
+      - 55.669138500637324
+- Id: 1fdf0b7a-2568-4bda-abd0-7b1ae200356f
+  Number: 23
+  Cells:
+    global_id: 170666812
+    Photo:
+    - a277de28-49df-4a72-b53d-c7ec183f0a74
+    ObjectShortName: ГБОУ Школа № 1363
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Юго-Восточный административный округ
+    District: район Выхино-Жулебино
+    Address: Рязанский проспект, дом 82, корпус 4
+    Email: 1363@edu.mos.ru
+    WebSite: sch1363uv.mskobr.ru
+    HelpPhone: "(495) 376-61-44"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: смешанное освещение
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.824785786339824
+      - 55.708190616664275
+- Id: c261c21b-ec0c-4a5e-af4d-ddef23c21aae
+  Number: 24
+  Cells:
+    global_id: 170668834
+    Photo: []
+    ObjectShortName: ГБОУ СОШ № 1159
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Северный административный округ
+    District: Головинский район
+    Address: Солнечногорский проезд, дом 7
+    Email: 1159@edu.mos.ru
+    WebSite: sch1159s.mskobr.ru
+    HelpPhone: "(495) 454-62-89"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.52196696135434
+      - 55.859873327162155
+- Id: 03dcb20d-8e46-4f62-80aa-e5f00ea88054
+  Number: 25
+  Cells:
+    global_id: 170670549
+    Photo: []
+    ObjectShortName: дворовая территория
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Новомосковский административный округ
+    District: поселение Московский
+    Address: город Московский, 1-й микрорайон, дом 38
+    Email: mu_csm@list.ru
+    WebSite: www.newmoscowsport.ru
+    HelpPhone: "(495) 841-97-75"
+    ObjectHasEquipmentRental: да
+    ObjectHasTechService: да
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: нет
+    ObjectHasToilet: да
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: да
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-23:00
+    - DayOfWeek: вторник
+      Hours: 08:00-23:00
+    - DayOfWeek: среда
+      Hours: 08:00-23:00
+    - DayOfWeek: четверг
+      Hours: 08:00-23:00
+    - DayOfWeek: пятница
+      Hours: 08:00-23:00
+    - DayOfWeek: суббота
+      Hours: 08:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: да
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.35007007552026
+      - 55.596679733277
+- Id: 6b913702-e45e-4b7c-bfe0-f217bb07731c
+  Number: 26
+  Cells:
+    global_id: 170670565
+    Photo:
+    - 2e5b57bd-d264-4d09-b235-89e3032a12c5
+    ObjectShortName: Дворовая территория
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Юго-Восточный административный округ
+    District: район Люблино
+    Address: Краснодарская улица, дом 48
+    Email: dosug_lublino@yandex.ru
+    WebSite: lublino.mos.ru
+    HelpPhone: "(499) 722-74-75"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-22:00
+    - DayOfWeek: вторник
+      Hours: 08:00-22:00
+    - DayOfWeek: среда
+      Hours: 08:00-22:00
+    - DayOfWeek: четверг
+      Hours: 08:00-22:00
+    - DayOfWeek: пятница
+      Hours: 08:00-22:00
+    - DayOfWeek: суббота
+      Hours: 08:00-22:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: смешанное освещение
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.76342962982734
+      - 55.675072882866345
+- Id: 8b70cbef-42d5-491b-8c6c-c2440eafd297
+  Number: 27
+  Cells:
+    global_id: 170683290
+    Photo:
+    - 839752b2-5c0f-4a7f-9018-741fd6693916
+    ObjectShortName: Спортивный комплекс образовательного учреждения
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Юго-Восточный административный округ
+    District: район Выхино-Жулебино
+    Address: Лермонтовский проспект, дом 14, корпус 2
+    Email: 1359@edu.mos.ru
+    WebSite: sch1359uv.mskobr.ru
+    HelpPhone: "(495) 705-53-32"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-21:00
+    - DayOfWeek: среда
+      Hours: 08:00-21:00
+    - DayOfWeek: четверг
+      Hours: 08:00-21:00
+    - DayOfWeek: пятница
+      Hours: 08:00-21:00
+    - DayOfWeek: суббота
+      Hours: 08:00-21:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-21:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение лампами накаливания
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.85416711189827
+      - 55.697022486466594
+- Id: b2b5e8fc-96d7-4dda-ae8d-02aaf7426bef
+  Number: 28
+  Cells:
+    global_id: 170684111
+    Photo: []
+    ObjectShortName: ГАУК г. Москвы «Поклонная гора»
+    SportZoneName: дорожка беговая-прогулочная, «Тропа здоровья»
+    AdmArea: Западный административный округ
+    District: район Дорогомилово
+    Address: улица Братьев Фонченко, дом 7
+    Email: poklgora@mail.ru
+    WebSite: poklonnaya-gora.ru
+    HelpPhone: "(499) 148-83-00"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 10:00-22:00
+    - DayOfWeek: вторник
+      Hours: 10:00-22:00
+    - DayOfWeek: среда
+      Hours: 10:00-22:00
+    - DayOfWeek: четверг
+      Hours: 10:00-22:00
+    - DayOfWeek: пятница
+      Hours: 10:00-22:00
+    - DayOfWeek: суббота
+      Hours: 10:00-22:00
+    - DayOfWeek: воскресенье
+      Hours: 10:00-22:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: смешанное освещение
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: не приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.49711953993436
+      - 55.72999904432942
+- Id: 4e5bed37-4d20-4003-bb79-824af8894f21
+  Number: 29
+  Cells:
+    global_id: 170684242
+    Photo: []
+    ObjectShortName: Спортивный городок «Лужники»
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Центральный административный округ
+    District: район Хамовники
+    Address: улица Лужники, дом 24, строение 11Ж
+    Email: 
+    WebSite: luzhniki.ru
+    HelpPhone: "(495) 780-08-08"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: да
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение лампами накаливания
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.5462534962705
+      - 55.72657371636423
+- Id: 0e9f4ec3-683c-4354-8b2c-3409da448ad2
+  Number: 30
+  Cells:
+    global_id: 170684294
+    Photo: []
+    ObjectShortName: Парк Горького
+    SportZoneName: прогулочная, беговая дорожка
+    AdmArea: Центральный административный округ
+    District: район Якиманка
+    Address: улица Крымский Вал, дом 9, строение 1
+    Email: info@park-gorkogo.com
+    WebSite: www.park-gorkogo.com
+    HelpPhone: "(495) 995-00-20"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: да
+    ObjectHasDressingRoom: да
+    ObjectHasEatery: да
+    ObjectHasToilet: да
+    ObjectHasWifi: да
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: да
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-23:00
+    - DayOfWeek: вторник
+      Hours: 08:00-23:00
+    - DayOfWeek: среда
+      Hours: 08:00-23:00
+    - DayOfWeek: четверг
+      Hours: 08:00-23:00
+    - DayOfWeek: пятница
+      Hours: 08:00-23:00
+    - DayOfWeek: суббота
+      Hours: 08:00-23:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-23:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: освещение лампами накаливания
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.59660494739606
+      - 55.7282129956411
+- Id: 2e5cba49-6580-4075-a4ee-eda984d6210e
+  Number: 31
+  Cells:
+    global_id: 170684539
+    Photo: []
+    ObjectShortName: Центр Скандинавской ходьбы Нордик Фит
+    SportZoneName: дорожка беговая-прогулочная
+    AdmArea: Центральный административный округ
+    District: район Якиманка
+    Address: улица Крымский Вал, дом 9, строение 11
+    Email: office@nordicwalker.ru
+    WebSite: www.nordicwalker.ru/
+    HelpPhone: "(925) 504-62-21"
+    ObjectHasEquipmentRental: нет
+    ObjectHasTechService: нет
+    ObjectHasDressingRoom: нет
+    ObjectHasEatery: нет
+    ObjectHasToilet: нет
+    ObjectHasWifi: нет
+    ObjectHasCashMachine: нет
+    ObjectHasFirstAidPost: нет
+    SportZoneWorkingHours:
+    - DayOfWeek: понедельник
+      Hours: 08:00-20:00
+    - DayOfWeek: вторник
+      Hours: 08:00-20:00
+    - DayOfWeek: среда
+      Hours: 08:00-20:00
+    - DayOfWeek: четверг
+      Hours: 08:00-20:00
+    - DayOfWeek: пятница
+      Hours: 08:00-20:00
+    - DayOfWeek: суббота
+      Hours: 08:00-20:00
+    - DayOfWeek: воскресенье
+      Hours: 08:00-20:00
+    SportZoneClarificationOfWorkingHours: 
+    SportZoneLighting: без дополнительного освещения
+    SportZonePaid: 
+    SportZonePaidComments: 
+    SportZoneHasMusic: нет
+    SportZoneDisabilityFriendly: частично приспособлен
+    SportZoneService: []
+    geoData:
+      type: Point
+      coordinates:
+      - 37.60262358973109
+      - 55.73109731296233
