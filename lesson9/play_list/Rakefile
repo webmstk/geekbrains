@@ -1,0 +1,45 @@
+namespace :playlist do
+
+  desc 'show playlists'
+  task :list do
+    playlists = Dir['playlists/**/*']
+
+    if playlists.empty?
+      puts 'there are no playlists yet'
+      exit
+    end
+
+    playlists.each { |list| puts File.basename list }
+  end
+
+  desc 'create playlist'
+  task :create do
+    playlist_name = if ENV['NAME']
+      "#{ENV['NAME']}.m3u"
+    else
+      require 'date'
+      "playlist_#{Date.today}.m3u"
+    end
+    playlist_file = "playlists/#{playlist_name}"
+
+    if File.exist?(playlist_file)
+      puts 'use rake playlist:update to update existing file'
+      exit
+    end
+
+    songs = Dir['music/**/*']
+
+    File.open(playlist_file, 'w') do |file|
+      file.write("#EXTM3U\n")
+      songs.each do |song|
+        file.puts("#EXTINF:-1,#{File.basename(song)}")
+        file.puts("file://#{File.absolute_path(song)}")
+      end
+    end
+  end
+
+  desc ''
+  # Задача update зависит от имени плейлиста которое передаётся в переменной окружения NAME из командной строки
+  task update: ENV['NAME']
+
+end
