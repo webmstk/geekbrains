@@ -15,21 +15,40 @@ namespace :playlist do
   desc 'create playlist'
   task :create do
     playlist_name = if ENV['NAME']
-      "#{ENV['NAME']}.m3u"
+      "#{ENV['NAME']}"
     else
       require 'date'
-      "playlist_#{Date.today}.m3u"
+      "playlist_#{Date.today}"
     end
-    playlist_file = "playlists/#{playlist_name}"
+    playlist_file = "playlists/#{playlist_name}.m3u"
 
     if File.exist?(playlist_file)
       puts 'use rake playlist:update to update existing file'
       exit
     end
 
+    Rake::Task['playlist:write'].invoke(playlist_name)
+  end
+
+  desc 'update list'
+  task :update do
+    if ENV['NAME']
+      Rake::Task["playlists/#{ENV['NAME']}.m3u"].invoke
+    else
+      puts 'Please specify a playlist (NAME)'
+    end
+  end
+
+  file "playlists/#{ENV['NAME']}.m3u" => Dir['music/**/*'] do
+    Rake::Task['playlist:write'].invoke(ENV['NAME'])
+    puts 'Playlist has been updated'
+  end
+
+  task :write, [:playlist_name] do |t, args|
+    playlist = "playlists/#{args[:playlist_name]}.m3u"
     songs = Dir['music/**/*']
 
-    File.open(playlist_file, 'w') do |file|
+    File.open(playlist, 'w') do |file|
       file.write("#EXTM3U\n")
       songs.each do |song|
         file.puts("#EXTINF:-1,#{File.basename(song)}")
@@ -37,9 +56,4 @@ namespace :playlist do
       end
     end
   end
-
-  desc ''
-  # Задача update зависит от имени плейлиста которое передаётся в переменной окружения NAME из командной строки
-  task update: ENV['NAME']
-
 end

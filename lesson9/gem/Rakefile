@@ -1,0 +1,35 @@
+# GEM_NAME = 'gem'
+
+require_relative 'lib/gem/version'
+
+task default: 'gem:release'
+
+namespace :gem do
+
+  desc <<~DESC
+    Сборка Gem-а
+  DESC
+  task :build do
+    sh 'gem build gem.gemspec'
+  end
+
+  desc <<~DESC
+    Установка Gem-а
+  DESC
+  task :install do
+    sh "gem install ./gem-#{Gem.version}.gem"
+  end
+
+  desc <<~DESC
+    Сборка и установка Gem-а
+  DESC
+  task release: [ :build, :install ]
+
+  desc <<~DESC
+    Публикация Gem-а
+  DESC
+  task publish: :release do
+    sh "gem push ./gem-#{Gem.version}.gem"
+  end
+
+end
