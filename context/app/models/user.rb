@@ -3,7 +3,8 @@ class User < ApplicationRecord
   attr_accessor :password
   attr_accessor :password_confirmation
 
-  before_save :before_save_hash_password
+  before_save  :before_save_hash_password
+  after_create :after_create_ensure_name
 
   def self.authenticate!(email:, password:)
     user = find_by(email: email)
@@ -22,6 +23,10 @@ class User < ApplicationRecord
       self.salt            = BCrypt::Engine.generate_salt
       self.hashed_password = BCrypt::Engine.hash_secret(@password, salt)
     end
+  end
+
+  def after_create_ensure_name
+    update_attribute :name, "user#{id}" if name.blank?
   end
 
 end
