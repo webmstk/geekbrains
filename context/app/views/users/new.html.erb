@@ -1,0 +1,26 @@
+<section class="input-form">
+  <h1>Новый Контекст</h1>
+
+  <%= form_for @user do |f| %>
+    <div class="input-form__element">
+      <%= f.label :email, 'Ваш email:' %><%= f.text_field :email %>
+    </div>
+
+    <div class="input-form__element">
+      <%= f.label :name, 'Ваше имя:' %><%= f.text_field :name %>
+    </div>
+
+    <div class="input-form__element">
+      <%= f.label :password, 'Пароль:' %><%= f.password_field :password %>
+    </div>
+
+    <div class="input-form__element">
+      <%= f.label :password_confirmation, 'Пароль ещё раз:' %><%= f.password_field :password_confirmation %>
+    </div>
+
+    <%= submit_tag 'Создать Контекст' %>
+  <% end %>
+
+  <a href="/home"></a>
+
+</section>
