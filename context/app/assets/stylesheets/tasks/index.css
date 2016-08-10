@@ -1,0 +1,64 @@
+.tasks__index {
+  position: absolute;
+  bottom: 15px;
+  border-radius: 5px;
+  border: solid 1px;
+  background: rgba(233, 199, 199, 0.2);
+  left: 15px;
+  right: 15px;
+  padding: 15px;
+  text-align: center;
+}
+
+.tasks__context {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.tasks__context__element {
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+  width: 180px;
+  height: 180px;
+  border: solid 3px #60cc19;
+  text-align: left;
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  background: rgba(96, 204, 25, 0.2);
+}
+
+.tasks__context__progress {
+  position: absolute;
+  right: -76px;
+  border: solid 3px #60cc19;
+  top: 7px;
+  border-radius: 5px;
+  padding: 5px;
+  width: 60px;
+  text-align: center;
+}
+
+.tasks__next__container {
+  height: 100px;
+  float: left;
+  margin-left: 130px;
+}
+
+.tasks__next__element {
+  border: solid 3px #9b8acf;
+  width: 80px;
+  height: 80px;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 10px;
+  background: rgba(155, 138, 207, 0.2);
+}
+
+.tasks__next__empty-element {
+  text-align: center;
+  line-height: 80px;
+  font-size: 50px;
+}

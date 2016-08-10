@@ -1,0 +1,18 @@
+.flash-content {
+  border-radius: 5px;
+  border: solid 1px;
+  background: rgba(233, 199, 199, 0.2);
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  margin-top: 25px;
+  padding: 15px;
+}
+
+.flash-content__alert {
+  color: #eb1515;
+}
+
+.flash-content__notice {
+  color: #60cc19;
+}

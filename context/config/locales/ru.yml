@@ -1,0 +1,40 @@
+ru:
+  flash:
+    alert:
+      login: 'В данных для входа есть ошибка'
+
+  layouts:
+    application:
+      title: "Контекст"
+
+  users:
+    new:
+      title: 'Новый Контекст'
+      email: 'Ваш email:'
+      name:  'Ваше имя:'
+      password: 'Пароль:'
+      password_confirmation: 'Пароль ещё раз:'
+      create_context: 'Создать Контекст'
+
+  sessions:
+    new:
+      title: 'Войдите в контекст'
+
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              blank: 'Заполните поле с электронной почтой'
+              taken: 'Такая электронная почта уже существует, выберете другую!'
+              invalid: 'Это не похоже на адрес электронной почты'
+            password:
+              blank: 'Придумайте пароль'
+            password_confirmation:
+              blank: 'Пароли не совпадают'
+            name:
+              too_long: 'Имя не должно быть длиннее %{count} символов'
+              invalid_name_format: 'Имя должно состоять из букв или пробела. Каждая часть имени должна начинаться с большой буквы'
+            base:
+              name_format: 'Имя должно начинаться с большой буквы'

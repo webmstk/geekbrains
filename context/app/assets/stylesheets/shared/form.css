@@ -1,0 +1,58 @@
+section.input-form {
+  width: 450px;
+  border-radius: 5px;
+  border: solid 1px;
+  margin: 0.5em;
+  padding: 1em;
+  background: rgba(233, 199, 199, 0.2);
+  margin: 140px auto;
+  margin-bottom: 0;
+}
+
+section.input-form .field_with_errors {
+  display: inline-block;
+}
+
+section.input-form .input-form__element {
+  line-height: 2.5em;
+}
+
+section.input-form .input-form__error {
+  line-height: normal;
+  margin-left: 130px;
+  font-size: 14px;
+  border-bottom: 1px solid #eb1515;
+}
+
+section.input-form label {
+  width: 125px;
+  display: inline-block;
+  text-align: right;
+}
+
+section.input-form input[type=text],
+section.input-form input[type=password] {
+  width: 12em;
+  padding: 3px;
+  margin-left: 5px;
+}
+
+section.input-form input[type=submit] {
+  padding: 0.2em 0.8em;
+  margin-left: 130px;
+}
+
+section.input-form h1 {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+section.input-form a {
+  font-size: 14px;
+}
+
+section.input-form a:hover {
+  text-decoration: underline;
+}

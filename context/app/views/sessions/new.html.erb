@@ -1,0 +1,16 @@
+<section class="input-form">
+  <h1><%= t '.title' %></h1>
+
+  <%= form_tag sessions_path do %>
+    <div class="input-form__element">
+      <%= label_tag :email, 'Ваш email:' %><%= text_field_tag :email, params[:email] %>
+    </div>
+
+    <div class="input-form__element">
+      <%= label_tag :password, 'И пароль:' %><%= password_field_tag :password %>
+    </div>
+
+    <%= submit_tag 'Войти в Контекст' %>
+    <%= link_to 'или зарегистрироваться!', signup_path %>
+  <% end %>
+</section>

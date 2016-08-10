@@ -1,0 +1,35 @@
+body a.hover:hover {
+  text-decoration: none;
+}
+
+body {
+  background: url(bg.jpg);
+  color: white;
+  padding: 15px;
+  font-family: Georgia, sans-serif;
+}
+
+body a.hover:hover {
+  text-decoration: underline;
+}
+
+body header.app {
+  overflow: hidden;
+}
+
+body .app-title {
+  font-size: 30px;
+  border-bottom: 1px solid;
+  width: 45%;
+  float: left;
+  color: #8989f0
+}
+
+body .login,
+body .logout {
+  float: right;
+}
+
+body .m-hide {
+  display: none;
+}

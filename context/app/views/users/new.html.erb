@@ -1,24 +1,28 @@
 <section class="input-form">
-  <h1>Новый Контекст</h1>
+  <h1><%= t '.title' %></h1>
 
   <%= form_for @user do |f| %>
     <div class="input-form__element">
-      <%= f.label :email, 'Ваш email:' %><%= f.text_field :email %>
+      <%= f.label :email, t('.email') %><%= f.text_field :email %>
+      <%= error_on_field :email, f.object %>
     </div>
 
     <div class="input-form__element">
-      <%= f.label :name, 'Ваше имя:' %><%= f.text_field :name %>
+      <%= f.label :name, t('.name') %><%= f.text_field :name %>
+      <%= error_on_field :name, f.object %>
     </div>
 
     <div class="input-form__element">
-      <%= f.label :password, 'Пароль:' %><%= f.password_field :password %>
+      <%= f.label :password, t('.password') %><%= f.password_field :password %>
+      <%= error_on_field :password, f.object %>
     </div>
 
     <div class="input-form__element">
-      <%= f.label :password_confirmation, 'Пароль ещё раз:' %><%= f.password_field :password_confirmation %>
+      <%= f.label :password_confirmation, t('.password_confirmation') %><%= f.password_field :password_confirmation %>
+      <%= error_on_field :password_confirmation, f.object %>
     </div>
 
-    <%= submit_tag 'Создать Контекст' %>
+    <%= submit_tag t('.create_context') %>
   <% end %>
 
   <a href="/home"></a>

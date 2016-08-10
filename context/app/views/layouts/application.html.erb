@@ -9,6 +9,14 @@
   </head>
 
   <body>
+    <header class="app">
+      <h1 class="app-title"><%= t('.title') %></h1>
+    </header>
+
+    <% flash.each do |type, content| %>
+      <%= content_tag :div, content, class: "flash-content flash-content__#{type}" %>
+    <% end %>
+
     <%= yield %>
   </body>
 </html>
