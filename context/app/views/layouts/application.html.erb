@@ -10,7 +10,15 @@
 
   <body>
     <header class="app">
-      <h1 class="app-title"><%= t('.title') %></h1>
+      <%= link_to root_path do %>
+        <h1 class="app-title"><%= t('.title') %></h1>
+      <% end %>
+      <div style="float:right">
+        <% if current_user %>
+          <%= current_user.name %>
+          <%= link_to 'Выйти', session_path(current_user), method: :delete %>
+        <% end %>
+      </div>
     </header>
 
     <% flash.each do |type, content| %>

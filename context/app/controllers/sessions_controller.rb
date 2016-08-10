@@ -19,7 +19,13 @@ class SessionsController < ApplicationController
   end
 
   def destroy
-
+    if current_user.id == params[:id].to_i
+      session.delete :user_id
+      redirect_to root_path, notice: 'Вы успешно разлогинились'
+    else
+      redirect_to root_path
+      flash[:error] = 'Вы кого выйти хотите?'
+    end
   end
 
 end
